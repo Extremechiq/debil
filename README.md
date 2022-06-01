@@ -1,2 +1,1 @@
-# debil
-debil
+debil выходи с аккаунтов
